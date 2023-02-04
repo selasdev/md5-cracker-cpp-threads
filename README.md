@@ -1,5 +1,7 @@
 ## Crackeador de MD5
 
+Este ejemplo reutiliza la siguiente función para usar la funcionalidad de MD5: http://www.zedwood.com/article/cpp-md5-function
+
 Este proyecto está creado con la finalidad de demostrar el aprendizaje
 de aplicaciones multi-plataforma (específicamente múltiples sistemas operativos), utilizando hilos del sistema
 a través de la API del S.O. Para acceder a variables globales y modificar su valor
